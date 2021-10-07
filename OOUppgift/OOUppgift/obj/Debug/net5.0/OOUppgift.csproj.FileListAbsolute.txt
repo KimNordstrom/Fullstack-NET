@@ -1,0 +1,16 @@
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\OOUppgift.exe
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\OOUppgift.deps.json
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\OOUppgift.runtimeconfig.json
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\OOUppgift.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\OOUppgift.dll
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\ref\OOUppgift.dll
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\bin\Debug\net5.0\OOUppgift.pdb
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.dll
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\ref\OOUppgift.dll
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.pdb
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.genruntimeconfig.cache
+C:\Users\K_Nor\source\repos\OOUppgift\OOUppgift\obj\Debug\net5.0\OOUppgift.csproj.AssemblyReference.cache

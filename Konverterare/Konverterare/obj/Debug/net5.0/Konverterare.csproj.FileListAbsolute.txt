@@ -1,0 +1,16 @@
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\Konverterare.exe
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\Konverterare.deps.json
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\Konverterare.runtimeconfig.json
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\Konverterare.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\Konverterare.dll
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\ref\Konverterare.dll
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\bin\Debug\net5.0\Konverterare.pdb
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.csproj.AssemblyReference.cache
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.dll
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\ref\Konverterare.dll
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.pdb
+C:\Users\K_Nor\source\repos\Konverterare\Konverterare\obj\Debug\net5.0\Konverterare.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\SwordBarbarians.exe
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\SwordBarbarians.deps.json
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\SwordBarbarians.runtimeconfig.json
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\SwordBarbarians.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\SwordBarbarians.dll
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\ref\SwordBarbarians.dll
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\bin\Debug\net5.0\SwordBarbarians.pdb
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.csproj.AssemblyReference.cache
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.dll
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\ref\SwordBarbarians.dll
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.pdb
+C:\Users\K_Nor\source\repos\SwordBarbarians\SwordBarbarians\obj\Debug\net5.0\SwordBarbarians.genruntimeconfig.cache

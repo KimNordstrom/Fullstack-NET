@@ -1,0 +1,16 @@
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\HängaGubbe.exe
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\HängaGubbe.deps.json
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\HängaGubbe.runtimeconfig.json
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\HängaGubbe.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\HängaGubbe.dll
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\ref\HängaGubbe.dll
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\bin\Debug\net5.0\HängaGubbe.pdb
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.csproj.AssemblyReference.cache
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.dll
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\ref\HängaGubbe.dll
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.pdb
+C:\Users\K_Nor\source\repos\HängaGubbe\HängaGubbe\obj\Debug\net5.0\HängaGubbe.genruntimeconfig.cache

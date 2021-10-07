@@ -1,0 +1,16 @@
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\Fåglar.exe
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\Fåglar.deps.json
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\Fåglar.runtimeconfig.json
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\Fåglar.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\Fåglar.dll
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\ref\Fåglar.dll
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\bin\Debug\net5.0\Fåglar.pdb
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.csproj.AssemblyReference.cache
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.dll
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\ref\Fåglar.dll
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.pdb
+C:\Users\K_Nor\source\repos\Fåglar\Fåglar\obj\Debug\net5.0\Fåglar.genruntimeconfig.cache

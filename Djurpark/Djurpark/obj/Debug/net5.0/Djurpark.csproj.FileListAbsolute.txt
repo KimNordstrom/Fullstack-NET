@@ -1,0 +1,16 @@
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\Djurpark.exe
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\Djurpark.deps.json
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\Djurpark.runtimeconfig.json
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\Djurpark.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\Djurpark.dll
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\ref\Djurpark.dll
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\bin\Debug\net5.0\Djurpark.pdb
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.csproj.AssemblyReference.cache
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.dll
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\ref\Djurpark.dll
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.pdb
+C:\Users\K_Nor\source\repos\Djurpark\Djurpark\obj\Debug\net5.0\Djurpark.genruntimeconfig.cache
