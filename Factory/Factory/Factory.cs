@@ -27,24 +27,47 @@ namespace MagicalFactory
         {
             int correctNumber = 0;
             Product rightmatch = null;
-            foreach (Product x in products)
+            foreach (Product product in products)
             {
-                x.CompareToProducts(incomingMaterials);
-                if(x.amountCorrectMaterials > correctNumber)
+                product.CompareToProducts(incomingMaterials);
+                if(product.amountCorrectMaterials > correctNumber)
                 {
-                    correctNumber = x.amountCorrectMaterials;
-                    rightmatch = x;
+                    correctNumber = product.amountCorrectMaterials;
+                    if (product.amountCorrectMaterials == product.blueprint.Count)
+                    {
+                        rightmatch = product;
+                        Console.Clear();
+                        Console.WriteLine($"Found match: {rightmatch.GetType().Name}. Creating it.");
+                        if (product.leftovers.Count > 0)
+                        {
+                            Console.Write("Leftovers from production: ");
+                            foreach (Material material in rightmatch.leftovers)
+                            {
+                                Console.Write(material.GetType().Name);
+                            }
+                        } else
+                        {
+                            Console.WriteLine("No leftovers");
+                        }
+                    } else
+                    {
+                        rightmatch = product;
+                        Console.Clear();
+                        Console.WriteLine($"Closest match: {rightmatch.GetType().Name}. Used magic to create it.");
+                        Console.WriteLine(product.missing.Count);
+                        Console.Write("Missing materials: ");
+                        foreach (var item in rightmatch.missing)
+                        {
+                            Console.Write(item.GetType().Name);
+                        }
+                    }
+                    
                 }
             }
-            Console.Clear();
-            Console.WriteLine($"Found match: {rightmatch.GetType().Name}. Creating it.");
-            Console.Write("Leftovers from production: ");
-            foreach (Material x in rightmatch.leftovers)
-            {
-                Console.Write(x.GetType().Name);
-            }
+            
             Console.WriteLine("\nPress to continue.");
             Console.ReadLine();
+            Console.Clear();
             return rightmatch;
         }
     }

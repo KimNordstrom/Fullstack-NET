@@ -12,6 +12,7 @@ namespace MagicalFactory
         protected string ProductType { get; init; }
         public int amountCorrectMaterials = 0;
         public List<Material> leftovers = new List<Material>();
+        public List<Material> missing = new List<Material>();
 
         public List<Material> blueprint;
         public Product()
@@ -20,9 +21,11 @@ namespace MagicalFactory
         }
         public List<Material> CompareToProducts(List<Material> inMat)
         {
-            
+            amountCorrectMaterials = 0;
+            leftovers.Clear();
+            missing.Clear();
             List<bool> blueCheck = new List<bool>(blueprint.Count) { };
-
+            
             for (int i = 0; i < blueprint.Count; i++)
             {
                 blueCheck.Add(false);
@@ -39,7 +42,9 @@ namespace MagicalFactory
                         {
                             blueCheck[i] = true;
                             found = true;
-                        }
+                            amountCorrectMaterials++;
+                            break;
+                        } 
                     }
                 }
                 if(found == false)
@@ -47,12 +52,15 @@ namespace MagicalFactory
                     leftovers.Add(item);
                 }
             }
-            
-            if (blueCheck.All(x => x))
+            for (int i = 0; i < blueCheck.Count; i++)
             {
-                amountCorrectMaterials = blueCheck.Count;
-                return leftovers;
-            } else { return null; }
+                if (blueCheck[i] == false)
+                {
+                    missing.Add(blueprint[i]);
+                    break;
+                }
+            }
+            return leftovers;
         }
     }
 }

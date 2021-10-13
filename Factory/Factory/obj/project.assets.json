@@ -8,17 +8,21 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\K_Nor\\.nuget\\packages\\": {}
+    "C:\\Users\\K_Nor\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\K_Nor\\Downloads\\KimsFactory(1)\\Factory (2)\\Factory\\Factory\\MagicalFactory.csproj",
+      "projectUniqueName": "C:\\Users\\K_Nor\\Downloads\\KimsFactory\\Factory (2)\\Factory\\Factory\\MagicalFactory.csproj",
       "projectName": "MagicalFactory",
-      "projectPath": "C:\\Users\\K_Nor\\Downloads\\KimsFactory(1)\\Factory (2)\\Factory\\Factory\\MagicalFactory.csproj",
+      "projectPath": "C:\\Users\\K_Nor\\Downloads\\KimsFactory\\Factory (2)\\Factory\\Factory\\MagicalFactory.csproj",
       "packagesPath": "C:\\Users\\K_Nor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\K_Nor\\Downloads\\KimsFactory(1)\\Factory (2)\\Factory\\Factory\\obj\\",
+      "outputPath": "C:\\Users\\K_Nor\\Downloads\\KimsFactory\\Factory (2)\\Factory\\Factory\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\K_Nor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

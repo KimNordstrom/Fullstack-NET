@@ -10,23 +10,23 @@ bool Done = false;
 while(Done != true)
 {
     ShowInventory();
+    Console.Write("\nWhen truck is ready, write (send) ");
     Console.Write("\nAdd item to truck: ");
-    int input = Convert.ToInt32(Console.ReadLine());
-    selectedMaterials.Add((Material)theStorage.inventory[input - 1]);
-    theStorage.inventory.RemoveAt(input - 1);
-
-    Console.WriteLine("Send? (y/n)");
-    var send = Console.ReadKey(true);
-    if(send.KeyChar == 'y')
+    var input = Console.ReadLine();
+    if (input == "send")
     {
         ShowTruck();
         Console.WriteLine("Sending truck...");
         var newProduct = theFactory.CreateProductFrom(selectedMaterials);
         theStorage.AddToStorage(newProduct.leftovers);
         theStorage.inventory.Add(newProduct);
-        ShowInventory();
-    } else
+        selectedMaterials.Clear();
+    }
+    else
     {
+        var inputAsInt = Convert.ToInt32(input);
+        selectedMaterials.Add((Material)theStorage.inventory[inputAsInt - 1]);
+        theStorage.inventory.RemoveAt(inputAsInt - 1);
         ShowTruck();
     }
 }
