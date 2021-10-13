@@ -1,0 +1,32 @@
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\MagicalFactory.exe
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\MagicalFactory.deps.json
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\MagicalFactory.runtimeconfig.json
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\MagicalFactory.runtimeconfig.dev.json
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\MagicalFactory.dll
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\ref\MagicalFactory.dll
+C:\Users\K_Nor\source\repos\Factory\Factory\bin\Debug\net5.0\MagicalFactory.pdb
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.csproj.AssemblyReference.cache
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.AssemblyInfoInputs.cache
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.AssemblyInfo.cs
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.dll
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\ref\MagicalFactory.dll
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.pdb
+C:\Users\K_Nor\source\repos\Factory\Factory\obj\Debug\net5.0\MagicalFactory.genruntimeconfig.cache
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\MagicalFactory.exe
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\MagicalFactory.deps.json
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\MagicalFactory.runtimeconfig.json
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\MagicalFactory.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\MagicalFactory.dll
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\ref\MagicalFactory.dll
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\bin\Debug\net5.0\MagicalFactory.pdb
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.dll
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\ref\MagicalFactory.dll
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.pdb
+C:\Users\K_Nor\Downloads\Factory (2)\Factory\Factory\obj\Debug\net5.0\MagicalFactory.genruntimeconfig.cache
