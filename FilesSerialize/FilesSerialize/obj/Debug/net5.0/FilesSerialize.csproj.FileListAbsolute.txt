@@ -1,0 +1,16 @@
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\FilesSerialize.exe
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\FilesSerialize.deps.json
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\FilesSerialize.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\FilesSerialize.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\FilesSerialize.dll
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\ref\FilesSerialize.dll
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\bin\Debug\net5.0\FilesSerialize.pdb
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.dll
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\ref\FilesSerialize.dll
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.pdb
+C:\Users\K_Nor\Downloads\oop-exercises-main (2)\oop-exercises-main\FilesSerialize\FilesSerialize\obj\Debug\net5.0\FilesSerialize.genruntimeconfig.cache
