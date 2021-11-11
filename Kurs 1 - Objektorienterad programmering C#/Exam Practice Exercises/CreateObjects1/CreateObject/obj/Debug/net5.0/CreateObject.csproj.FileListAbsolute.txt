@@ -1,0 +1,16 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\CreateObject.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\CreateObject.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\CreateObject.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\CreateObject.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\CreateObject.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\ref\CreateObject.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\bin\Debug\net5.0\CreateObject.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\ref\CreateObject.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\CreateObjects1\CreateObject\obj\Debug\net5.0\CreateObject.genruntimeconfig.cache

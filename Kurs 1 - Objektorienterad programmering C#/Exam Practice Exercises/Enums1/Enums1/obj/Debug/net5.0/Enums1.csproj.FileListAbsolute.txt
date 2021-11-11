@@ -1,0 +1,16 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\Enums1.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\Enums1.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\Enums1.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\Enums1.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\Enums1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\ref\Enums1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\bin\Debug\net5.0\Enums1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\ref\Enums1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Enums1\Enums1\obj\Debug\net5.0\Enums1.genruntimeconfig.cache

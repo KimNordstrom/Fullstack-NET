@@ -1,0 +1,16 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\Exceptions1.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\Exceptions1.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\Exceptions1.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\Exceptions1.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\Exceptions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\ref\Exceptions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\bin\Debug\net5.0\Exceptions1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\ref\Exceptions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Exceptions1\Exceptions1\obj\Debug\net5.0\Exceptions1.genruntimeconfig.cache

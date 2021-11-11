@@ -1,0 +1,15 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\Assignment.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\Assignment.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\Assignment.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\bin\Debug\net5.0\Assignment.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Loops2\Assignment\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache

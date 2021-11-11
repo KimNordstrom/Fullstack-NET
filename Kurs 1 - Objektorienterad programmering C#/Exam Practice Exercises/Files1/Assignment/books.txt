@@ -1,0 +1,6 @@
+﻿title§author§genre
+Design Patterns: Elements of Reusable Object-Oriented Software§Erich Gamma§Programming
+Clean Code: A Handbook of Agile Software Craftsmanship§Robert C. Martin§Programming
+Code Complete§Steve McConnell§Programming
+To Kill a Mockingbird§Harper Lee§Fiction
+Pride and Prejudice§Jane Austen§Fiction

@@ -1,0 +1,16 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main (1)\oop-exam-exercises-main\Interfaces2\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache

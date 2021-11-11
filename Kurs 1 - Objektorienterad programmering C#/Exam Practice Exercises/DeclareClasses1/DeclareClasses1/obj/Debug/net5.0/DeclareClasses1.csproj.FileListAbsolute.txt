@@ -1,0 +1,15 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\DeclareClasses1.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\DeclareClasses1.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\DeclareClasses1.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\DeclareClasses1.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\DeclareClasses1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\ref\DeclareClasses1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\bin\Debug\net5.0\DeclareClasses1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\ref\DeclareClasses1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\DeclareClasses1\DeclareClasses1\obj\Debug\net5.0\DeclareClasses1.genruntimeconfig.cache

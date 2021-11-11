@@ -1,0 +1,16 @@
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.csproj.AssemblyReference.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.AssemblyInfoInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.AssemblyInfo.cs
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.csproj.CoreCompileInputs.cache
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\Conditions1.exe
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\Conditions1.deps.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\Conditions1.runtimeconfig.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\Conditions1.runtimeconfig.dev.json
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\Conditions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\ref\Conditions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\bin\Debug\net5.0\Conditions1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\ref\Conditions1.dll
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.pdb
+C:\Users\K_Nor\Downloads\oop-exam-exercises-main\oop-exam-exercises-main\Conditions1\Conditions1\obj\Debug\net5.0\Conditions1.genruntimeconfig.cache
